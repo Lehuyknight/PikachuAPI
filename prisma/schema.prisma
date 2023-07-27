@@ -1,0 +1,45 @@
+// This is your Prisma schema file,
+// learn more about it in the docs: https://pris.ly/d/prisma-schema
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "mysql"
+  url      = env("DATABASE_URL")
+}
+
+model CharacterPackData {
+  id           String               @id
+  fileName     String               @unique
+  price        Int
+  fullName     String
+  description  String
+  downloadLink String
+  users        User_CharacterPack[]
+  createAt     DateTime             @default(now())
+  updateAt     DateTime             @updatedAt
+  deleteAt     DateTime?
+}
+
+model User {
+  id       String               @id
+  createAt DateTime             @default(now())
+  updateAt DateTime             @default(now())
+  deleteAt DateTime?
+  packsData User_CharacterPack[]
+}
+
+model User_CharacterPack {
+  userId            String
+  packId            String
+  isBuy             Boolean
+  isUse             Boolean
+  characterPacksData CharacterPackData @relation(fields: [packId], references: [id])
+  users              User              @relation(fields: [userId], references: [id])
+  createAt          DateTime          @default(now())
+  updateAt          DateTime          @default(now())
+  deleteAt          DateTime?
+
+  @@id([userId, packId])
+}
