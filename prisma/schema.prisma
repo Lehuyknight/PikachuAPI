@@ -43,3 +43,9 @@ model User_CharacterPack {
 
   @@id([userId, packId])
 }
+
+model User_Scene{
+  userId String
+  sceneId String
+  @@id([userId, sceneId])
+}

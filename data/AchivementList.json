@@ -1,0 +1,202 @@
+[
+    {
+      "isOpenedChest": false,
+      "isCollectedChest": false,
+      "starRequired": 2000,
+      "coinEarn": 100,
+      "hintEarn": 1,
+      "shuffleEarn": 1
+    },
+    {
+      "isOpenedChest": false,
+      "isCollectedChest": false,
+      "starRequired": 4000,
+      "coinEarn": 100,
+      "hintEarn": 1,
+      "shuffleEarn": 1
+    },
+    {
+      "isOpenedChest": false,
+      "isCollectedChest": false,
+      "starRequired": 6000,
+      "coinEarn": 100,
+      "hintEarn": 1,
+      "shuffleEarn": 1
+    },
+    {
+      "isOpenedChest": false,
+      "isCollectedChest": false,
+      "starRequired": 8000,
+      "coinEarn": 100,
+      "hintEarn": 1,
+      "shuffleEarn": 1
+    },
+    {
+      "isOpenedChest": false,
+      "isCollectedChest": false,
+      "starRequired": 10000,
+      "coinEarn": 100,
+      "hintEarn": 1,
+      "shuffleEarn": 1
+    },
+    {
+      "isOpenedChest": false,
+      "isCollectedChest": false,
+      "starRequired": 12000,
+      "coinEarn": 100,
+      "hintEarn": 1,
+      "shuffleEarn": 1
+    },
+    {
+      "isOpenedChest": false,
+      "isCollectedChest": false,
+      "starRequired": 14000,
+      "coinEarn": 100,
+      "hintEarn": 1,
+      "shuffleEarn": 1
+    },
+    {
+      "isOpenedChest": false,
+      "isCollectedChest": false,
+      "starRequired": 16000,
+      "coinEarn": 100,
+      "hintEarn": 1,
+      "shuffleEarn": 1
+    },
+    {
+      "isOpenedChest": false,
+      "isCollectedChest": false,
+      "starRequired": 18000,
+      "coinEarn": 100,
+      "hintEarn": 1,
+      "shuffleEarn": 1
+    },
+    {
+      "isOpenedChest": false,
+      "isCollectedChest": false,
+      "starRequired": 20000,
+      "coinEarn": 100,
+      "hintEarn": 1,
+      "shuffleEarn": 1
+    },
+    {
+      "isOpenedChest": false,
+      "isCollectedChest": false,
+      "starRequired": 22000,
+      "coinEarn": 100,
+      "hintEarn": 1,
+      "shuffleEarn": 1
+    },
+    {
+      "isOpenedChest": false,
+      "isCollectedChest": false,
+      "starRequired": 24000,
+      "coinEarn": 100,
+      "hintEarn": 1,
+      "shuffleEarn": 1
+    },
+    {
+      "isOpenedChest": false,
+      "isCollectedChest": false,
+      "starRequired": 26000,
+      "coinEarn": 100,
+      "hintEarn": 1,
+      "shuffleEarn": 1
+    },
+    {
+      "isOpenedChest": false,
+      "isCollectedChest": false,
+      "starRequired": 28000,
+      "coinEarn": 100,
+      "hintEarn": 1,
+      "shuffleEarn": 1
+    },
+    {
+      "isOpenedChest": false,
+      "isCollectedChest": false,
+      "starRequired": 30000,
+      "coinEarn": 100,
+      "hintEarn": 1,
+      "shuffleEarn": 1
+    },
+    {
+      "isOpenedChest": false,
+      "isCollectedChest": false,
+      "starRequired": 32000,
+      "coinEarn": 100,
+      "hintEarn": 1,
+      "shuffleEarn": 1
+    },
+    {
+      "isOpenedChest": false,
+      "isCollectedChest": false,
+      "starRequired": 34000,
+      "coinEarn": 100,
+      "hintEarn": 1,
+      "shuffleEarn": 1
+    },
+    {
+      "isOpenedChest": false,
+      "isCollectedChest": false,
+      "starRequired": 36000,
+      "coinEarn": 100,
+      "hintEarn": 1,
+      "shuffleEarn": 1
+    },
+   {
+      "isOpenedChest": false,
+      "isCollectedChest": false,
+      "starRequired": 38000,
+      "coinEarn": 100,
+      "hintEarn": 1,
+      "shuffleEarn": 1
+    },
+    {
+      "isOpenedChest": false,
+      "isCollectedChest": false,
+      "starRequired": 40000,
+      "coinEarn": 100,
+      "hintEarn": 1,
+      "shuffleEarn": 1
+    },
+    {
+      "isOpenedChest": false,
+      "isCollectedChest": false,
+      "starRequired": 42000,
+      "coinEarn": 100,
+      "hintEarn": 1,
+      "shuffleEarn": 1
+    },
+    {
+      "isOpenedChest": false,
+      "isCollectedChest": false,
+      "starRequired": 44000,
+      "coinEarn": 100,
+      "hintEarn": 1,
+      "shuffleEarn": 1
+    },
+    {
+      "isOpenedChest": false,
+      "isCollectedChest": false,
+      "starRequired": 46000,
+      "coinEarn": 100,
+      "hintEarn": 1,
+      "shuffleEarn": 1
+    },
+    {
+      "isOpenedChest": false,
+      "isCollectedChest": false,
+      "starRequired": 48000,
+      "coinEarn": 100,
+      "hintEarn": 1,
+      "shuffleEarn": 1
+    },
+    {
+      "isOpenedChest": false,
+      "isCollectedChest": false,
+      "starRequired": 50000,
+      "coinEarn": 100,
+      "hintEarn": 1,
+      "shuffleEarn": 1
+    }
+  ]

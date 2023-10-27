@@ -8,4 +8,5 @@ export class UpdateCharacterPackDatumDto extends PartialType(CreateCharacterPack
     fullName: string
     description: string
     downloadLink: string
+    updatedAt: string
 }
